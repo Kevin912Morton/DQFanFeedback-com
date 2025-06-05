@@ -23,7 +23,7 @@ DQFanFeedback com is a structured platform designed to collect customer reviews 
 
 **John Developer**  
 - **Email:** johndev@example.com  
-- **Website:** [DQFanFeedback com]
+- **Website:** [DQFanFeedback com](https://www-dqfanfeedback.com)
 - **Bio:** John Developer is a seasoned full-stack developer with expertise in web applications, known for his intuitive designs and problem-solving skills.
 
 ## Getting Started
